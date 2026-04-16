@@ -29,7 +29,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Applications/Python 3.9/quantium-starter-repo-main/venv"
+set -gx VIRTUAL_ENV "/home/josiah/vagabond/forage/quantium/quantium-task-1-model-answer/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
